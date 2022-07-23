@@ -1,0 +1,16 @@
+Uri: http://em1rsn.tilda.ws/
+File Name: C:\Users\Emerson\Desktop\ZECH DIPLOM\em1rsn.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: http://em1rsn.tilda.ws/zech_the_new_fashion_empery
+File Name: C:\Users\Emerson\Desktop\ZECH DIPLOM\em1rsn.tilda.ws\zech_the_new_fashion_empery.html
+Content Type: text/html
+
+Uri: http://em1rsn.tilda.ws/tilda-blocks-page28908115.min.css?t=1658596499
+File Name: C:\Users\Emerson\Desktop\ZECH DIPLOM\em1rsn.tilda.ws\tilda-blocks-page28908115.min.css
+Content Type: text/css
+
+Uri: http://em1rsn.tilda.ws/tilda-blocks-page28908115.min.js?t=1658596499
+File Name: C:\Users\Emerson\Desktop\ZECH DIPLOM\em1rsn.tilda.ws\tilda-blocks-page28908115.min.js
+Content Type: application/javascript
+
